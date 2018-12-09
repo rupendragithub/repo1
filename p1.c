@@ -6,3 +6,5 @@ int a,b;
 a=30;
 printf("%d",a);
 }
+
+//added comment here

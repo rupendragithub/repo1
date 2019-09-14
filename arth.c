@@ -10,6 +10,7 @@ int main(int argc,char* argv)
 	printf("\n Multiplication : %d",a*b);
 	printf("\n substraction : %d",a-b);
 	printf("\n division : %d",a/b);
+	ptintf("\n modulo : %d",a%b);
 
 	return 0
 }
